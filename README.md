@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Svintjohn or you can call me JB
-- 👀 I’m interested in coding, reading books, and movies
+- 👀 I’m interested in coding, reading books, and and movies
 - 🌱 I’m currently learning Bachelor of Science in Computer Science at Holy Angel University
 - 💞️ I’m looking to collaborate on working some codes thaht may enchanced my skills in coding
 - 📫 How to reach me, you can reach me through my socials link on my profile
