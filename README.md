@@ -1,4 +1,3 @@
-<img src="https://github.com/Svintjohn/Svintjohn/blob/main/banner.gif" width="100%" alt="Cean's Banner">
 # 👋 Hi! I'm PRIMO!
 
 🎓 Pursuing a **Computer Science** degree at **Holy Angel University**.   
