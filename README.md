@@ -1,7 +1,8 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://github.com/Svintjohn/Svintjohn/blob/main/banner.gif" width="100%" alt="Welcome Banner">
+  <img src="https://media.tenor.com/https://tenor.com/view/f1-gif-25339191" width="100%" alt="Banner">
 </p>
+
 
 <h1 align="center">👋 Hi! I'm <span style="color:#38bdf8;">PRIMO</span>!</h1>
 
