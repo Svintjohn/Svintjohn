@@ -22,10 +22,11 @@
 
 ---
 
-### 📊 GitHub Stats
-![Primo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svintjohn&show_icons=true&theme=github_dark)
-![Primo's Streak](https://streak-stats.demolab.com?user=Svintjohn&theme=github-dark&hide_border=true)
+### 📊 GitHub Overview
+![Primo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Svintjohn&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Svintjohn&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Svintjohn&theme=tokyonight&hide_border=true)
+
+### 🚀 Contribution Graph
 ![Primo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Svintjohn&theme=tokyo-night)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svintjohn&layout=compact&theme=github_dark)
-![Metrics](https://github.com/Svintjohn/Svintjohn/blob/main/github-metrics.svg)
 
