@@ -5,7 +5,7 @@
 ---
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([your-linkedin-link](https://www.linkedin.com/notifications/?filter=all))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/john-benedict-berceles-8787b0228](https://www.linkedin.com/notifications/?filter=all))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](your-portfolio-link)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)]([your-leetcode-link](https://leetcode.com/u/Svintjohn))
 
