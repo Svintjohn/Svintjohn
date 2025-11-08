@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://media.tenor.com/https://tenor.com/view/f1-gif-25339191" width="100%" alt="Banner">
+  <img src="https://media.tenor.com/CYJ3hVn_X0IAAAAd/f1.gif" width="100%" alt="F1 Banner">
 </p>
 
 
