@@ -2,22 +2,28 @@
   <img src="https://media.tenor.com/CYJ3hVn_X0IAAAAd/f1.gif" width="100%" alt="F1 Banner">
 </p>
 
-<h1 align="center">👋 Hi! I'm <span style="color:#38bdf8;">PRIMO</span>!</h1>
-
-<p align="center">
-🎓 <b>Computer Science Student</b> at <b>Holy Angel University</b> <br>
-💡 Passionate about <b>web development</b>, <b>AI</b>, and <b>open-source innovation</b> <br>
-🚀 Striving to build impactful tech that connects people and ideas
-</p>
+<h1 align="center">🏎️ Hi there, I'm <span style="color:#00BFFF;">PRIMO</span>!</h1>
+<h3 align="center">A passionate Computer Science student racing through the world of code ⚡</h3>
 
 ---
 
-### 🌐 Connect with Me
+### 🚀 About Me
+
+🎓 Currently pursuing a **Bachelor’s in Computer Science** at **Holy Angel University**  
+💡 Enthusiastic about **AI, Data Science, and Full-Stack Development**  
+🌱 Constantly learning and exploring new technologies  
+🧠 Strong focus on **innovation**, **clean code**, and **community-driven development**  
+🔥 Driven by curiosity and the thrill of building something impactful  
+
+---
+
+### 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/john-benedict-berceles-8787b0228">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/notifications/?filter=all">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://svintjohn.github.io/portfolio/">
+  <a href="your-portfolio-link">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Svintjohn">
@@ -27,40 +33,54 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-### ⚡ GitHub Analytics
+### 💼 Featured Projects
+
+🌟 **[Arduino-Based Tachometer](https://github.com/Svintjohn/arduino-tachometer)** — Real-time rotational speed detection using IR and proximity sensors.  
+🌟 **[Campus Navigation App](https://github.com/Svintjohn/campus-navigation)** — A Java-based app helping students navigate Holy Angel University.  
+🌟 **[My Love For You Website](https://github.com/Svintjohn/my-love-for-you)** — A creative, responsive web project showcasing design and interactivity.  
+
+> 💬 “Code is like a race — precision, timing, and passion make all the difference.”
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Svintjohn&show_icons=true&theme=tokyonight&hide_border=true" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svintjohn&layout=compact&theme=tokyonight&hide_border=true" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Svintjohn&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svintjohn&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Svintjohn&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=Svintjohn&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🚀 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Svintjohn&theme=tokyo-night&hide_border=true" />
-</p>
+### ⚡ Recent Activity Graph
+
+![Primo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Svintjohn&theme=tokyo-night)
 
 ---
 
+### 🎯 Fun Fact
+When I’m not coding, I’m either analyzing F1 telemetry data or designing futuristic interfaces. 🏁  
+I believe every line of code brings me closer to building something extraordinary.
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Svintjohn&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <i>“Keep racing toward your goals — one commit at a time.”</i>
 </p>
