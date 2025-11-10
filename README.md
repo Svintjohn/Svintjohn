@@ -84,3 +84,9 @@ I believe every line of code brings me closer to building something extraordinar
 <p align="center">
   <i>“Keep racing toward your goals — one commit at a time.”</i>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Svintjohn&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
