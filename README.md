@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/notifications/?filter=all">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
-  <a href="your-portfolio-link">
+  <a href="[your-portfolio-link](https://svintjohn.github.io/Supremo-Portfolio/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Svintjohn">
