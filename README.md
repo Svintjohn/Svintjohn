@@ -49,7 +49,7 @@
 ### 💼 Featured Projects
 
 🌟 **[Campus Navigation App](https://github.com/Svintjohn/Campus-Navigation-App)** — A Java-based app helping students navigate Holy Angel University.  
-🌟 **[My Love For You Website]([https://github.com/Svintjohn/my-love-for-you](https://github.com/Svintjohn/Website-for-my-girlfriend))** — A creative, responsive web project showcasing design and interactivity.  
+🌟 **[My Love For You Website]([https://github.com/Svintjohn/my-love-for-you](https://github.com/Svintjohn/Website-for-my-girlfriend)** — A creative, responsive web project showcasing design and interactivity.  
 
 > 💬 “Code is like a race — precision, timing, and passion make all the difference.”
 
