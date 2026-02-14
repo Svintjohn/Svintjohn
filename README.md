@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVsY2JvbW5ueDQ5OG8yNzh1MDVxZmF4bGhjbmNwNWxsM3p1ODc5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UzvlLpSulVBn7ZIucS/giphy.gif" width="700">
-</p>
-
----
-
-<p align="center">
   <img src="https://media.tenor.com/CYJ3hVn_X0IAAAAd/f1.gif" width="100%" alt="F1 Banner">
 </p>
 
@@ -48,7 +42,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white"/>
 </p>
+
 
 ---
 
