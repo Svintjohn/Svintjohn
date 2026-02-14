@@ -79,6 +79,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Svintjohn/Svintjohn/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 ### ⚡ Recent Activity Graph
 
 ![Primo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Svintjohn&theme=tokyo-night)
